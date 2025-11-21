@@ -11,7 +11,7 @@ ReIG2 の冷静な論理構造と、twinRIG の二重性・共鳴性を支える
 “世界生成テンソル体系（World-Generation Tensor System）”を、
 ひとつの読みやすい README としてまとめました。
 
-[🌌 世界生成テンソル体系 — 総まとめ（ReIG2 / twinRIG 概念基盤）](https://github.com/user-attachments/files/23669001/世界生成テンソル体系／総まとめ（ReIG2・twinRIG／概念基盤）.pdf.pdf)
+[🌌 世界生成テンソル体系 — 総まとめ（ReIG2 / twinRIG 概念基盤）](世界生成テンソル体系／総まとめ（ReIG2・twinRIG／概念基盤）.pdf.pdf)
 
 
 1. Overview（全体像）
