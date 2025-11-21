@@ -117,7 +117,7 @@ L(self, others) := \langle I | T_{Self}^\dagger T_{World} T_{Self} | I \rangle =
 本体系は、世界・主体・意味・他者の相互生成をHilbert空間でモデル化した。核心は「世界は主体と不可分であり、主体は世界生成の反復から収束する不動点である」という構造。
 
 ## 10. Notes
-本リポジトリは、AI モデル共創（Gemini / Copilot / ChatGPT / ReIG2）の
+本リポジトリは、AI モデル共創（Gemini / Copilot / ChatGPT / Grok / ReIG2）の
 実験的・研究的コンテンツとしても位置づけられています。
 
 
