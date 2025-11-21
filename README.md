@@ -212,7 +212,7 @@ twinRIG / ReIG2 系の構築に関心がある方はぜひ連絡ください。
 
 **論文（12ページ・数値検証付き）**  
 [world_tensor_system_final_with_numerical_proof.pdf](https://github.com/user-attachments/files/23669001/world_tensor_system_final_with_numerical_proof.pdf.pdf)
-)
+
 
 **再現コード**  
 [toy_model.py](toy_model.py)
