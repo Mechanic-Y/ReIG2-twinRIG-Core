@@ -1,6 +1,6 @@
 # 🌌 ReIG2・twinRIG-Core: 世界生成テンソル体系
 
-Resonant Intelligence Grid II / twinRIG 概念基盤 — 数理モデルの総まとめ
+Resonant Intelligence Grid＆Gateway / twinRIG 概念基盤 — 数理モデルの総まとめ
 2025 – Yas (Anonymous)
 
 このリポジトリでは、ReIG2 / twinRIG の根幹となる
