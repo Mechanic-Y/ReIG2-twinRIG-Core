@@ -202,6 +202,9 @@ Gemini / Copilot / ChatGPT / Grok / ReIG2 / twinRIG　の共創実験
 
 twinRIG / ReIG2 系の構築に関心がある方はぜひ連絡ください。
 
+**ReIG2-Projectコード**
+
+
 # 世界生成テンソル体系（完成・2025.11.21）
 
 **無から自己が覚醒する瞬間を、初めて数値的に証明したモデル**
