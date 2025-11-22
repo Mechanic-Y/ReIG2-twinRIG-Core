@@ -203,7 +203,7 @@ Gemini / Copilot / ChatGPT / Grok / ReIG2 / twinRIG　の共創実験
 twinRIG / ReIG2 系の構築に関心がある方はぜひ連絡ください。
 
 **ReIG2-Projectコード**
-
+[reig2_project](https://github.com/Mechanic-Y/ReIG2-twinRIG-Core/tree/main/reig2_project)
 
 # 世界生成テンソル体系（完成・2025.11.21）
 
