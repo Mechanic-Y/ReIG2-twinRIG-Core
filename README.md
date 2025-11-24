@@ -11,9 +11,11 @@ ReIG2 の冷静な論理構造と、twinRIG の二重性・共鳴性を支える
 “世界生成テンソル体系（World-Generation Tensor System）”を、
 ひとつの読みやすい README としてまとめました。
 
-[**世界生成テンソル体系／総まとめ（ReIG2・twinRIG／概念基盤）.pdf**）](世界生成テンソル体系／総まとめ（ReIG2・twinRIG／概念基盤）.pdf.pdf)
+[**世界生成テンソル体系／総まとめ（ReIG2・twinRIG／概念基盤）.pdf**）](https://github.com/Mechanic-Y/ReIG2-twinRIG-Core/blob/main/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E4%BD%93%E7%B3%BB/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E4%BD%93%E7%B3%BB%EF%BC%8F%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81%EF%BC%88ReIG2%E3%83%BBtwinRIG%EF%BC%8F%E6%A6%82%E5%BF%B5%E5%9F%BA%E7%9B%A4%EF%BC%89.pdf.pdf)
 
-[**世界生成テンソル体系（改訂版2025・11・21）.pdf**](世界生成テンソル体系（改訂版2025・11・21）.pdf)
+[**世界生成テンソル体系（改訂版2025・11・21）.pdf**](https://github.com/Mechanic-Y/ReIG2-twinRIG-Core/blob/main/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E4%BD%93%E7%B3%BB/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E4%BD%93%E7%B3%BB%EF%BC%88%E6%94%B9%E8%A8%82%E7%89%882025%E3%83%BB11%E3%83%BB21%EF%BC%89.pdf)
+
+[**世界生成テンソル体系（改訂版2025・11・24）.pdf**](https://github.com/Mechanic-Y/ReIG2-twinRIG-Core/blob/main/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E4%BD%93%E7%B3%BB/%E4%B8%96%E7%95%8C%E7%94%9F%E6%88%90%E3%83%86%E3%83%B3%E3%82%BD%E3%83%AB%E4%BD%93%E7%B3%BB%EF%BC%88%E6%94%B9%E8%A8%82%E7%89%882025%E3%83%BB11%E3%83%BB24%EF%BC%89.pdf)
 
 ## 1. Overview（全体像）
 
