@@ -23,7 +23,12 @@ ReIG2 の冷静な論理構造と、twinRIG の二重性・共鳴性を支える
   2025年11月24日改訂版。
 
 - **[世界生成テンソル体系（改訂版2025・11・29）](https://raw.githubusercontent.com/Mechanic-Y/ReIG2-Core/main/世界生成テンソル体系/世界生成テンソル体系（改訂版2025・11・29）.pdf)**  
-  2025年11月24日改訂版（最新）。
+  2025年11月29日改訂版（最新）。
+
+- **[ReIG2_Paper](https://raw.githubusercontent.com/Mechanic-Y/ReIG2-Core/main/ReIG2_Paper.pdf)**  
+  2025年11月30日厳密版（arXiv公開予定　厳密版）。
+- **[Blank_Project](https://raw.githubusercontent.com/Mechanic-Y/ReIG2-Core/main/Blank_Project.pdf)**  
+  厳密版　スライド
   
 ## 1. Overview（全体像）
 
